@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "name": "Lívia",
+      "lastName": "Ávila",
+      "email": "hail.ahlevo@gmail.com",
+      "password": "Mugiwara1*",
+      "password2": "Mugiwara1*",
+      "publications": [],
+      "favorites": [],
+      "id": 2
+    },
+    {
+      "name": "Matheus",
+      "lastName": "Donizeti",
+      "email": "mathferreira726@gmail.com",
+      "password": "irmao259@@",
+      "password2": "irmao259@@",
+      "publications": [
+        "8dvrjtHU2",
+        "Zmm4Qw_qB"
+      ],
+      "favorites": [],
+      "id": 3
+    },
+    {
+      "name": "Antonio",
+      "lastName": "Mortari",
+      "email": "antoniomortari09@gmail.com",
+      "password": "30030522",
+      "password2": "30030522",
+      "publications": [],
+      "favorites": [],
+      "id": 4
+    }
+  ],
+  "ongs": []
+}
